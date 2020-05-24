@@ -26,7 +26,7 @@ If you chose the former these instructions will get you up and running.
 Clone the repo
 
 ```
-git clone git@github.com:bigbhowell/would-you-rather.git
+https://github.com/mikelangelo1/would-you-rather-app.git
 ```
 
 Change into the *would-you-rather* project directory
